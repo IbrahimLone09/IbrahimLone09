@@ -18,6 +18,7 @@ python developer
 - learn data structures 
 - Become a better programmer
 
+![Snake animation](https://github.com/IbrahimLone09/output/blob/output/github-contribution-grid-snake.svg)
 
 
 
