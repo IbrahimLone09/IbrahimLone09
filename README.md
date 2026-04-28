@@ -1,5 +1,5 @@
 ## Hi 👋 I'm Ibrahim Lone
-python developer
+I try to write codes.....
 
 ## Projects
 - Password strength checker
